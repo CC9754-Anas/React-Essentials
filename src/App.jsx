@@ -21,6 +21,7 @@ function App() {
     </pre>
   </div>
   }
+  // appliction 'return' starts from here:
   return (
     <div>
       <Header />
